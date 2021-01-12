@@ -1,3 +1,2 @@
 # fluffy-robot
-just one of my java projects
-.gjjj.
+just one of my java projects.
