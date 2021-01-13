@@ -5,6 +5,7 @@ public class Main extends Imports{
     fname = Scan.nextLine();
     lname = Scan.nextLine();
     fullName = fname + " " + lname;
-    System.out.println("hi " fullName);
+    System.out.println("Hi " fullName);
+    System.out.println("The time is " + date.getDate)
   }
 }
