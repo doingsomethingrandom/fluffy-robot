@@ -1,4 +1,4 @@
-public class Main{
+public class Main extends Imports{
   public static void main(Strings[] args){
     String fname;
     String lname;
